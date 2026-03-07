@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: EXAMPLE HAND3
+  m_Name: EXAMPLE HAND URP
   m_Shader: {fileID: 4800000, guid: fa5684be872df464c9a7226f20a4e7ea, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -88,12 +88,12 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EndTransparency: 1
-    - _Float0: 0
+    - _Float0: 1
     - _Float1: -0.43
     - _Float2: 2.33
     - _Float3: 1
-    - _FresnelBias: 0.34
-    - _FresnelPower: 1
+    - _FresnelBias: 0
+    - _FresnelPower: 0.35
     - _FresnelScale: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -107,7 +107,7 @@ Material:
     - _Parallax: 0.02
     - _Point1: 0
     - _Point2: 1
-    - _Point3: -2
+    - _Point3: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -130,7 +130,7 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color0: {r: 0, g: 0.5877156, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelColor: {r: 0.25342646, g: 0.6856558, b: 0.8018868, a: 1}
+    - _FresnelColor: {r: 0.25342643, g: 0.6856558, b: 0.8018868, a: 1}
     - _MainColor: {r: 0.39383334, g: 0.7169812, b: 0.34158066, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 0}
     - _XRayColor: {r: 1, g: 0, b: 0, a: 0}
