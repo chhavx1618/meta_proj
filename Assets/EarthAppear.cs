@@ -3,7 +3,7 @@ using UnityEngine;
 public class EarthAppear : MonoBehaviour
 {
     public Transform cameraTransform;
-    public float speed = 2f;
+    public float speed = 4f;
 
     void Update()
     {
