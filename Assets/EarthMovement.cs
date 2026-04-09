@@ -5,7 +5,7 @@ public class EarthMovement : MonoBehaviour
     public Transform startPoint;
     public Transform endPoint;
 
-    public float duration = 30f;
+    public float duration = 40f;
 
     float timer = 0f;
     bool moving = false;
